@@ -1,1 +1,1 @@
-Each branch is a different project, nothing to see on this one
+Small project on the Iris dataset, comparison between different models
