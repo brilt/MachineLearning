@@ -1,1 +1,1 @@
-Small project on the Iris dataset, comparison between different models
+A set of small project to help me learn machine learning
